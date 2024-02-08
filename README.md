@@ -1,5 +1,5 @@
 # Duino Coin Faucet
-SLX Universe's Duino Coin Faucet is a fork of [Duco Faucet Furime](https://codeberg.org/Furim/Duco_Faucet_Furime), freely available and open source. It was developed by SLX Universe.
+SLX Universe's Duino Coin Faucet is a fork of [Duco Faucet Furime](https://codeberg.org/Furim/Duco_Faucet_Furime), freely available and open source.
 
 ### Screenshot
 ![image](https://github.com/SLXUniverse/DuinoCoinFaucet/assets/109912460/2f5b9294-36c5-4d33-9b18-eb20cc66652e)
