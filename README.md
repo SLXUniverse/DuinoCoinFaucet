@@ -18,6 +18,9 @@ I decided to make improvements to the faucet code. [Duco Faucet Furime](https://
 - If you want edit website, then use ``templates/index.html`` to edit faucet website
 - If you want edit faucet config, then use ``faucet.py`` to edit faucet config
 
+### How to Contribute
+To contribute by suggesting new features or addressing issues, please visit the [Issues](https://github.com/SLXUniverse/DuinoCoinFaucet/issues) section and create a new issue. Reach out to the owner to discuss your contribution and get involved in the development process. We welcome your input and contributions!
+
 # Donate
 - Duino Coin (DUCO): applerobloxgames
 - Or other crypto, please go to [https://slxuniverse.com/donate](https://slxuniverse.com/donate)
